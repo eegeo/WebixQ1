@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebixQ1", "WebixQ1\WebixQ1.csproj", "{7696E001-F7F2-4EC6-B2B3-B65ECD14816B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7696E001-F7F2-4EC6-B2B3-B65ECD14816B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7696E001-F7F2-4EC6-B2B3-B65ECD14816B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7696E001-F7F2-4EC6-B2B3-B65ECD14816B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7696E001-F7F2-4EC6-B2B3-B65ECD14816B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89C4078-2908-4FD2-B4D1-34D3F1B7903F}
+	EndGlobalSection
+EndGlobal
